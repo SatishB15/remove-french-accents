@@ -1,6 +1,6 @@
 {
   "name": "remove-french-accents",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This libarary is used to remove french accent keywords from provided input string",
   "main": "index.js",
   "type": "commonjs",
@@ -11,6 +11,11 @@
     "dev": "ts-node src/index.ts",
     "test": "node dist/test.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SatishB15/remove-french-accents"
+  },
+  "keywords": ["remove", "french", "accents", "accented-keywords","french-accent"],
   "author": "Satish Birhade",
   "license": "MIT",
   "devDependencies": {
