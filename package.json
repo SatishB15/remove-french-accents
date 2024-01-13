@@ -1,0 +1,20 @@
+{
+  "name": "remove-french-accents",
+  "version": "1.0.1",
+  "description": "This libarary is used to remove french accent keywords from provided input string",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts",
+    "test": "node dist/test.js"
+  },
+  "author": "Satish Birhade",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "nodemon": "^3.0.2",
+    "typescript": "^5.3.3"
+  }
+}
