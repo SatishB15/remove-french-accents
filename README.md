@@ -35,8 +35,7 @@ console.log(result);
 ## API
 <b>removeFrenchAccents(input: string): string</b> <br>
 - Removes French accents from the input string.
-
-#### input: The string with French accents.
+- input: The string with French accents.
 
 ## Why Use Remove French Accents?
 Whether you're working on internationalization, text processing, or data cleansing, Remove French Accents simplifies the task of handling French accented characters. Enhance the robustness and clarity of your applications by incorporating this versatile tool.
@@ -45,7 +44,7 @@ Whether you're working on internationalization, text processing, or data cleansi
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/SatishB15/remove-french-accents?tab=MIT-1-ov-file#readme) file for details.
 
 ## Contributing
-Contributions are welcome! Please feel free to open an issue or submit a pull request.
+Contributions are welcome! Please feel free to open an issue or submit a [pull request](https://github.com/SatishB15/remove-french-accents/pulls).
 
 ## Keywords
 French, Accents, Strings, Text Processing, Internationalization
