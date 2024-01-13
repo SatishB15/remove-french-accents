@@ -24,7 +24,7 @@ npm install remove-french-accents
 ## Usage
 
 ```ruby
-const { removeFrenchAccents } = require('remove-french-accents');
+import { removeFrenchAccents } from 'remove-french-accents';
 
 const input = 'cliché résumé façade';
 const result = removeFrenchAccents(input);
