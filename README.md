@@ -3,7 +3,7 @@ Effortlessly remove French accents from strings with this lightweight and effici
 
 [![npm version](https://img.shields.io/npm/v/remove-french-accents.svg)](https://www.npmjs.com/package/remove-french-accents)
 [![npm downloads](https://img.shields.io/npm/dt/remove-french-accents.svg)](https://www.npmjs.com/package/remove-french-accents)
-[![License](https://img.shields.io/github/license/yourusername/remove-french-accents.svg)](https://github.com/yourusername/remove-french-accents/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/SatishB15/remove-french-accents.svg)](https://github.com/SatishB15/remove-french-accents/LICENSE)
 
 A lightweight and efficient npm package to remove French accents from strings.
 
