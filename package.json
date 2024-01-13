@@ -1,6 +1,6 @@
 {
   "name": "remove-french-accents",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Effortlessly remove French accents from strings with this lightweight and efficient npm package. Designed for ease of use, it provides a seamless solution for processing strings containing accented characters commonly found in the French language.",
   "main": "index.js",
   "type": "commonjs",
